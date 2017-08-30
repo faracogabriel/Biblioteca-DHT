@@ -1,3 +1,3 @@
 # DHT
 
-![Settings Window](https://www.arduino.cc/en/uploads/Tutorial/LCD_Base_bb_Fritz.png)
+![Settings Window](https://www.filipeflop.com/wp-content/uploads/2013/08/Circuito_DHT11.jpg)
